@@ -1,0 +1,9 @@
+
+{
+"streets": "mapbox/streets-v11",
+"outdoors": "mapbox/outdoors-v11",
+"light": "mapbox/light-v10",
+"dark": "mapbox/dark-v10",
+"satellite": "mapbox/satellite-v9",
+"satStreets": "mapbox/satellite-streets-v11"
+}
